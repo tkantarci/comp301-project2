@@ -1,0 +1,1 @@
+("8.10" tarm64osx ("8a039800c4dffc3f9aece093f323ca66e2684e9e" . "40a7b4c46e0c4a0ed491341a3941b10116264a4d") (collects #"drracket" #"private" #"drracket-errortrace-key.rkt") (collects #"eopl" #"lang" #"reader.rkt") (collects #"eopl" #"main.rkt"))
